@@ -27,11 +27,11 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
            <br> 
-           <p> Currently studying C# and Golang. </p>
+           <p> Currently studying C# and .NET. </p>
           
 
 </div>
 </div>
   
-- 🌸 I’m currently working on my portfolio.
-- 🌺 Pronouns: she/her.
+Conhecimento em Javascript, C#, .NET e SQL. 
+Aprendendo cybersegurança no tempo vago pela Cisco Networking Academy.
