@@ -33,5 +33,5 @@
 </div>
 </div>
   
-Conhecimento em Javascript, C#, .NET e SQL. 
-Aprendendo cybersegurança no tempo vago pela Cisco Networking Academy.
+<p>Conhecimento em Javascript, C#, .NET e SQL. </p>
+<p>Aprendendo cybersegurança no tempo vago pela Cisco Networking Academy.</p>
